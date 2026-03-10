@@ -1,0 +1,27 @@
+{
+  "name": "Codex Warhammer 40K",
+  "short_name": "Codex 40K",
+  "description": "Inventaire et champ de bataille Warhammer 40K",
+  "start_url": "/warhammer40k/",
+  "scope": "/warhammer40k/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "utilities"],
+  "lang": "fr"
+}
